@@ -1,4 +1,4 @@
-# Frameio Mobile App
+# Frameio App
 
 Frameio is a collaborative video review and sharing mobile application designed to streamline media workflows. Built with [Expo](https://expo.dev/) and React Native, Frameio enables teams to upload, comment, and approve video content efficiently from their mobile devices.
 
@@ -23,7 +23,7 @@ Frameio helps creative teams manage video projects by providing tools for feedba
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/frameio-mobile.git
+    git clone https://github.com/sushantdwivedi/Frame-io.git
     cd frameio-mobile
     ```
 
@@ -50,7 +50,7 @@ Frameio helps creative teams manage video projects by providing tools for feedba
 ## 📸 Screenshots
 
 ### 🖥️ Home Page
-![Home Page](assets/screenshot1.png)
+<img src="assets/screenshot1.jpeg" alt="Home Page" width="120[](url)"/>
 
 
 ## Folder Structure
