@@ -7,7 +7,7 @@ Frameio is a collaborative video review and sharing mobile application designed 
 Frameio helps creative teams manage video projects by providing tools for feedback, versioning, and secure sharing. The app integrates with popular editing software and supports various media formats, making it easy for teams to collaborate on the go.
 
 ### 🔷 App Icon
-<img src="assets/icon.png" alt="App Icon" width="100"/>
+<img src="assets/icon.png" alt="App Icon" width="150"/>
 
 
 ## Features
@@ -50,7 +50,7 @@ Frameio helps creative teams manage video projects by providing tools for feedba
 ## 📸 Screenshots
 
 ### 🖥️ Home Page
-<img src="assets/screenshot1.jpeg" alt="Home Page" width="120[](url)"/>
+<img src="assets/screenshot1.jpeg" alt="Home Page" width="200[](url)"/>
 
 
 ## Folder Structure
