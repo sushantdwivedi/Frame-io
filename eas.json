@@ -1,0 +1,12 @@
+{
+  "cli": { "version": ">= 10.0.0" },
+  "build": {
+    "apk": {
+      "android": { "buildType": "apk" }
+    },
+    "production": {
+      "android": { "gradleCommand": ":app:bundleRelease" }
+    }
+  },
+  "submit": { "production": {} }
+}
